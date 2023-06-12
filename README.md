@@ -1,4 +1,4 @@
-# Benjamin Jones: Portfolio
+# Benjamin Jones' Portfolio
 A portfolio of my various personal and University projects
 
 
