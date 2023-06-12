@@ -1,12 +1,17 @@
+title: [Benjamin Jones' Portfolio]
+description: [This page shows off some of the technology-related projects I've completed along. Each title is a link to the project!]
+author:
+  name: Benjamin Jones
+  email: benjamin.n.jones@protonmail.com
+
+# Theme settings
 remote_theme: pages-themes/cayman@v0.2.0
 plugins:
 - jekyll-remote-theme
 
-title: [Benjamin Jones' Portfolio]
-description: [This page shows off some of the technology-related projects I've completed aloing with links to the repositories they are contained in]
-
+# Settings
 show_downloads: false
 
+# Links
 github:
   repository_url: https://github.com/Bnjon01
-linkedin_username: benjamin-n-jones
